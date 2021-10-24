@@ -167,7 +167,7 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#004098",
-    "github": "https://github.com/TekTech-IDE/Ultrasonic-extension"
+    "github": "https://github.com/tektecher/Ultrasonic-extension"
   },
   "microBlock-IDE_HX711-extension": {
     "name": "HX711",
