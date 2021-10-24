@@ -397,7 +397,7 @@
     "version": "1.0.1",
     "icon": "/static/icon.png",
     "color": "#004098",
-    "github": "https://github.com/javanesse/Ultrasonic-extension"
+    "github": "https://github.com/tektecher/Ultrasonic-extension"
   },
   "javanesse_microBlock-Math-Operator": {
     "name": "Missing Math Operator",
