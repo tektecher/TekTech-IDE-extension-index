@@ -78,6 +78,7 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#E74C3C",
-    "github": "https://github.com/microBlock-IDE/ESP-NOW-extension"
+    "github": "https://github.com/tektecher/Servo-extension"
+  
   }
 }
