@@ -7,7 +7,7 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#3498DB",
-    "github": "https://github.com/microBlock-IDE/WiFi-extension"
+    "github": "https://github.com/tektecher/Motor-extension"
   },
   "microBlock-IDE_LINENotify-extension": {
     "name": "LINE Notify",
