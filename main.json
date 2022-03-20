@@ -1,4 +1,14 @@
 {
+    "microBlock-IDE_Ultrasonic-extension": {
+    "name": "Ultrasonic",
+    "description": "Get distance from HC-SR04p",
+    "author": "TekTech",
+    "category": "Sensors",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#004098",
+    "github": "https://github.com/tektecher/Ultrasonic-extension"
+  },
   "microBlock-IDE_WiFi-extension": {
     "name": "WiFi",
     "description": "Connect to WiFi",
