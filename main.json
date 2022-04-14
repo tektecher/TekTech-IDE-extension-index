@@ -1,6 +1,6 @@
 {
-   "microBlock-IDE_ESP-NOW-extension": {
-    "name": "ESP-NOW",
+   "TekTech-IDE_RCBluetooth-extension": {
+    "name": "RC-Bluetooth",
     "description": "Communicate between RC and Your phone",
     "author": "TekTech",
     "category": "Communication",
