@@ -1,17 +1,4 @@
 {
-   //"TekTech-IDE_RCBluetooth-extension": {
-   //"name": "RC-Bluetooth",
-   //"description": "Communicate between RC and Your phone",
-   //"author": "TekTech",
-   //"category": "Communication",
-   //"version": "1.0.0",
-   //"icon": "/static/icon.png",
-   //"color": "#E74C3C",
-   //"chip": [
-     //"ESP32"
-    //],
-    //"github": "https://github.com/tektecher/RCBluetooth-extension"
-  //},
   "microBlock-IDE_ESP-NOW-extension": {
     "name": "ESP-NOW",
     "description": "Communication between KidBright32 via ESP-NOW",
