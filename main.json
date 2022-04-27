@@ -1,17 +1,17 @@
 {
-   "TekTech-IDE_RCBluetooth-extension": {
-    "name": "RC-Bluetooth",
-    "description": "Communicate between RC and Your phone",
-    "author": "TekTech",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E74C3C",
-    "chip": [
-      "ESP32"
-    ],
-    "github": "https://github.com/tektecher/RCBluetooth-extension"
-  },
+   //"TekTech-IDE_RCBluetooth-extension": {
+   //"name": "RC-Bluetooth",
+   //"description": "Communicate between RC and Your phone",
+   //"author": "TekTech",
+   //"category": "Communication",
+   //"version": "1.0.0",
+   //"icon": "/static/icon.png",
+   //"color": "#E74C3C",
+   //"chip": [
+     //"ESP32"
+    //],
+    //"github": "https://github.com/tektecher/RCBluetooth-extension"
+  //},
   "microBlock-IDE_ESP-NOW-extension": {
     "name": "ESP-NOW",
     "description": "Communication between KidBright32 via ESP-NOW",
@@ -94,16 +94,6 @@
     "icon": "/static/icon.png",
     "color": "#27AE60",
     "github": "https://github.com/microBlock-IDE/NeoPixel-extension"
-  },
-  "microBlock-IDE_Buzzer-extension": {
-    "name": "Buzzer",
-    "description": "Make buzzer beep sound",
-    "author": "microBlock",
-    "category": "Device Control",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#F39C12",
-    "github": "https://github.com/microBlock-IDE/Buzzer-extension"
   },
   "microBlock-IDE_HTTP-extension": {
     "name": "HTTP",
