@@ -122,5 +122,15 @@
   "icon": "/static/icon.png",
   "color": "#0f3058",
   "github": "https://github.com/tektecher/pulse-heartrate-extension"
+  },
+  "TekTech-IDE_IR-Remote-extension": {
+    "name": "IR Remote",
+    "description": "Get data from Sony Remote",
+    "author": "TekTech",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#515A5A",
+    "github": "https://github.com/tektecher/IR-Remote-extension"
   }
 }
