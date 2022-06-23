@@ -1,6 +1,6 @@
 {
   "TekTech-IDE_RCBluetooth-extension": {
-    "name": "ESP-NOW",
+    "name": "Bluetooth",
     "description": "Communication between RC via Bluetooth",
     "author": "TekTech",
     "category": "Communication",
