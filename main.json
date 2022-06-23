@@ -1,17 +1,4 @@
 {
-  "TekTech-IDE_RCBluetooth-extension": {
-    "name": "Bluetooth",
-    "description": "Communication between RC via Bluetooth",
-    "author": "TekTech",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E74C3C",
-    "chip": [
-      "ESP32"
-    ],
-    "github": "https://github.com/tektecher/RCBluetooth-extension"
-  },  
   "microBlock-IDE_ESP-NOW-extension": {
     "name": "ESP-NOW",
     "description": "Communication between KidBright32 via ESP-NOW",
@@ -115,17 +102,6 @@
     "color": "#2ECC71",
     "github": "https://github.com/microBlock-IDE/HTTP-extension"
   },
-
-  "microBlock-IDE_ESP-NOW-extension": {
-    "name": "ESP-NOW",
-    "description": "Communication between KidBright32 via ESP-NOW",
-    "author": "microBlock",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E74C3C",
-    "github": "https://github.com/microBlock-IDE/ESP-NOW-extension"
-  },
   "TekTech-IDE_pluse-heartrate-extension": {
   "name": "Pulse HeartRate",
   "description": "Pulse Sensor or heart-rate sensor",
@@ -145,5 +121,18 @@
     "icon": "/static/icon.png",
     "color": "#515A5A",
     "github": "https://github.com/tektecher/IR-Remote-extension"
+  },
+  "TekTech-IDE_RCBluetooth-extension": {
+    "name": "Bluetooth",
+    "description": "Communication between RC via Bluetooth",
+    "author": "TekTech",
+    "category": "Communication",
+    "version": "1.0.0",
+    "icon": "/static/icon.png",
+    "color": "#E74C3C",
+    "chip": [
+      "ESP32"
+    ],
+    "github": "https://github.com/tektecher/RCBluetooth-extension"
   }
 }
