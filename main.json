@@ -127,9 +127,6 @@
     "version": "1.0.0",
     "icon": "/static/icon.png",
     "color": "#E74C3C",
-    "chip": [
-      "ESP32"
-    ],
     "github": "https://github.com/tektecher/RCBluetooth-extension"
   }
 }
