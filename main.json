@@ -119,14 +119,14 @@
     "color": "#515A5A",
     "github": "https://github.com/tektecher/IR-Remote-extension"
   },
-  "TekTech-IDE_RCBluetooth-extension": {
-    "name": "Bluetooth",
-    "description": "Communication between RC via Bluetooth",
-    "author": "TekTech",
-    "category": "Communication",
-    "version": "1.0.0",
-    "icon": "/static/icon.png",
-    "color": "#E74C3C",
-    "github": "https://github.com/tektecher/RCBluetooth-extension"
-  }
+  //"TekTech-IDE_RCBluetooth-extension": {
+  //  "name": "Bluetooth",
+  //  "description": "Communication between RC via Bluetooth",
+  //  "author": "TekTech",
+  //  "category": "Communication",
+  //  "version": "1.0.0",
+  //  "icon": "/static/icon.png",
+  //  "color": "#E74C3C",
+  //  "github": "https://github.com/tektecher/RCBluetooth-extension"
+  //}
 }
